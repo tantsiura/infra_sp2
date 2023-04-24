@@ -146,6 +146,12 @@ dmypy.json
 .mypy_cache
 
 # папки со статикой и медиа
-static/
-posts/static/
+media/
 
+
+.users/validators.py
+users/validators.py
+./validators.py
+.validators.py
+api_yamdb/users/validators.py
+.api_yamdb/users/validators.py
